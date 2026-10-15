@@ -15,7 +15,7 @@ Linil Pascal
 
 <div align="center">
   <h3>My GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=CelestialAzure" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BlazedPascal" />
 </div>
 
 <div align='center'>
@@ -32,9 +32,9 @@ Linil Pascal
 
 <hr />
 
-<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelestialAzure&theme=github_dark" width="46%"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelestialAzure&layout=compact&langs_count=9&theme=github_dark" width="49%"></a>
-<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelestialAzure&theme=github_dark" width="100%"></a>
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlazedPascal&theme=github_dark" width="46%"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazedPascal&layout=compact&langs_count=9&theme=github_dark" width="49%"></a>
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlazedPascal&theme=github_dark" width="100%"></a>
 
 
 <hr />
